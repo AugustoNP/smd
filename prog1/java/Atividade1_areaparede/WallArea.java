@@ -1,3 +1,5 @@
+package Atividade1_areaparede;
+
 import java.util.Scanner;
 public class WallArea{
 

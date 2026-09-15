@@ -1,3 +1,5 @@
+package Atividade2_dividirconta;
+
 import java.util.Scanner;
 public class DivideTab{
 	public static void main (String[] args){
