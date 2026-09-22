@@ -12,7 +12,7 @@ public static void main(String[] args){
 
 		String numberSignal = CheckNumberSignal(number);
 
-		JOptionPane.showMessageDialog(null, "O seu número: " +number+ " é " + numberSignal);
+		JOptionPane.showMessageDialog(null, "O seu número: (" +number+ ") é " + numberSignal);
 
 
 }
