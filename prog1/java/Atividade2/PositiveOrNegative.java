@@ -1,3 +1,4 @@
+
 package Atividade2;
 
 import javax.swing.JOptionPane;
@@ -7,7 +8,7 @@ public class PositiveOrNegative{
 
 
 public static void main(String[] args){
-		String numberinput = JOptionPane.showInputDialog("Escreva um número!");
+		String numberinput = JOptionPane.showInputDialog("Escreva um número! Vamos verificar o sinal dele!!");
 		int number = Integer.parseInt(numberinput);
 
 		String numberSignal = CheckNumberSignal(number);
@@ -16,7 +17,7 @@ public static void main(String[] args){
 
 
 }
-	public static String CheckNumberSignal (int number)
+	public static String CheckNumberSignal(int number)
 	{
 		if (number > 0){
 			return "positivo";
