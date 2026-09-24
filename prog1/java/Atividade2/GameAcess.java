@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class GameAcess {
+public class ImageRatio {
   public static void main(String[] args) {
      
     Scanner inputScanner = new Scanner(System.in);
